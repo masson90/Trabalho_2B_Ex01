@@ -49,6 +49,7 @@ namespace Trabalho_2B_Ex01
                 
                 //SOMA PARA AO FINAL APRESENTAR MÉDIA.
                 media = media + item;
+                //
 
             }
             //A) MÉDIA DOS VALORES EM PONTO FLUTUANTE.
