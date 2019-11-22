@@ -7,6 +7,7 @@ namespace Trabalho_2B_Ex01
         static void Main(string[] args)
         {
             /*
+             * 1)
             Em um array bidimensional de 10 linhas por 10 colunas do tipo inteiro, solicite ao
             usuário que preencha este array. Ao final apresente: (1,0 pto)
             a. Média Geral

@@ -108,6 +108,7 @@
             this.btnadd.TabIndex = 4;
             this.btnadd.Text = "Adicionar";
             this.btnadd.UseVisualStyleBackColor = true;
+            this.btnadd.Click += new System.EventHandler(this.btnadd_Click);
             // 
             // btnremove
             // 
@@ -118,6 +119,7 @@
             this.btnremove.TabIndex = 4;
             this.btnremove.Text = "Remover";
             this.btnremove.UseVisualStyleBackColor = true;
+            this.btnremove.Click += new System.EventHandler(this.btnremove_Click);
             // 
             // Form1
             // 
@@ -134,6 +136,7 @@
             this.Controls.Add(this.listFila);
             this.Controls.Add(this.lb1);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.ResumeLayout(false);
             this.PerformLayout();
