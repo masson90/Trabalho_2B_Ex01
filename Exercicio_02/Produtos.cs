@@ -7,7 +7,7 @@ namespace Exercicio_02
     class Produtos
     {
         //classe de Produtos com pelo menos 10 propriedades
-
+        
         public string codigoProduto { get; set; }
 
         public string nomeProduto { get; set; }
